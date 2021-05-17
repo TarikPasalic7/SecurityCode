@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.container{
+text-align: center;
+  width: 50%;
+  display: flex;
+  margin: 10px auto;
+}
+.screen{
+display: inline-block;
+  border: 2px black solid;
+  background-color: lightblue;
+  height: 140px;
+  width: 150px;
+}

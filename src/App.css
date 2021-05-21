@@ -4,18 +4,45 @@
 
 .container{
 text-align: center;
-  width: 50%;
-  display: flexbox;
-  margin: 10px auto;
+width: 50%;
+  display:inline-block ;
+  margin: 0;
 }
 .screen{
-display: inline-block;
+display:inline-block;
   border: 2px black solid;
   background-color: lightblue;
   height: 140px;
   width: 50%;
+
+}
+.par{
+ font-size: 60px;
+ font-weight: bolder;
+margin: 30px; 
+ 
 }
 
 .row{
-  background-color: rebeccapurple;
+  
+
+ width: 300px;
+
+ 
+}
+.btn{
+  display: inline-block;
+  width: 70px;
+  height: 60px;
+  margin: 2px 2px;
+ 
+}
+.container2{
+  background-color: rgb(118, 113, 113);
+  display: inline-block;
+  text-align: center;
+  margin: 2px 50px;
+  border: black solid 2px;
+ 
+
 }
